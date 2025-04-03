@@ -1,16 +1,17 @@
-fx_version 'cerulean'
+fx_version 'bodacious'
+
 game 'gta5'
 
-author 'Tyler Development'
-description 'Speed Bypass Standalone / vMenu'
-version '1.0.0'
+version 'v1.0'
 
-shared_script 'config.lua'
+Author 'Tyler Development'
 
-client_scripts {
-    'client.lua'
-}
+client_script 'nui.lua'
 
-server_scripts {
-    'server.lua'
+ui_page 'html/index.html'
+
+files {
+    'html/index.css',
+    'html/index.js',
+    'html/index.html'
 }

@@ -1,12 +1,9 @@
-# 🚗💨 Speed-Bypass 🚗💨
-Speed Bypass script for FiveM by: Tyler Development
+# speedlimit
+SpeedlimitUI FiveM
 
-REQUIREMENTS: A brain 🧠
+This is a Speed limit UI that appears when driving. Big thanks to Tyler The Owner of Tyler Development for doing this amazing scripts
 
-This is a simple and easy script to use. You shouldn't have to touch anything outside of the config file. (Yes this is standalone and uses ace perms)
-The difference between this speed bypass script and others, is that this one has multiple different speed bypass aces. You can also easily add a duty export for your server LEO. (Coming in a later update)
-The main purpose of the export is so LEO officers are able to bypass the server speedlimit when on duty and when off duty they follow the default server speed limit (unless they have another ace ofc)
+Join the discord for support: https://discord.gg/fNJbA7AuSC
 
-This script also has multiple ACES and you may add more.
+<img alt="Qries" src="https://cdn.discordapp.com/attachments/732445566113415200/900239397809713162/unknown.png"></img>
 
-As always if there are any bugs with the code please make an issue request. 😀
